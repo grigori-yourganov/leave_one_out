@@ -4,9 +4,9 @@ Leave-one-out regression and classification.
 This repository consists of four files:
 
 - leave_one_out_analysis.m: MATLAB code for simple leave-one-out analysis.
-- manual.docx: the manual that explains everytjing you need to know. It's basically the same as the contents of this page.
-- loo_regression_data.xlsx: an example spreadsheet for regression
-- loo_classification_data.xlsx: an example spreadsheet for classification
+- manual.docx: basically the same as the contents of this page.
+- loo_regression_data.xlsx: an example spreadsheet for regression.
+- loo_classification_data.xlsx: an example spreadsheet for classification.
 
 The MATLAB script leave_one_out_analysis.m performs leave-one-out procedure to model the relationship between multiple predictors and a single outcome. Predictors and outcome can be numerical or categorical. There are 4 types of analysis that are supported:
 
