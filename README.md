@@ -31,3 +31,6 @@ After we are done with leave-one-out procedure, we run the selected method on th
 
 If some predictors are redundant, the script will generate a warning. Redundancy might cause numerical issues and the model estimation might be inaccurate. For example, if the set of predictors contains WAB Spontaneous Speech Score, Auditory Verbal Comprehension Score, Repetition Score, Naming / Word Finding Score, and Aphasia Quotient (AQ), then the last score can be computed from the other four scores and therefore AQ is redundant. In that case, it is recommended to remove AQ from the list of predictors (it does not contain any information that is not already captured by the other predictors).
 
+Enjoy!
+
+Grigori Yourganov
